@@ -47,3 +47,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 metrics2.data.hicloud.com
 0.0.0.0 grs.hicloud.com
 0.0.0.0 samsung-com.112.2o7.net
+0.0.0.0 fwtracks.freshmarketer.com
